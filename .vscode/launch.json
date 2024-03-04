@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Legion/projects/Avarage",
-      "program": "c:/Users/Legion/projects/Avarage/build/Debug/outDebug",
+      "cwd": "c:/Users/Legion/projects/Avarage/Scientificcalculator/src",
+      "program": "c:/Users/Legion/projects/Avarage/Scientificcalculator/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
